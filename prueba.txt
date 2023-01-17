@@ -3,4 +3,4 @@ Este es un archivo de prueba
 Vamos a ver que aprendemos hoy!
 
 Apredi a que puedo hacer modificaciones a mi archivo y volver a hacer commit
-Es brutal todo lo que estoy aprendiendo!!!
+Hoy ya estoy aprendiendo con un proyecto real
